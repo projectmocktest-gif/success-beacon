@@ -1,0 +1,6 @@
+{
+  "name": "Student Mock Test Platform",
+  "description": "An interactive student assessment platform that integrates live Google sheets for automated logins, diagnostics class tests, government career alerts, and dynamic answer explainers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
